@@ -1,0 +1,75 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+li>a {
+    color: white;
+}
+
+.about-social li {
+    display: inline-block;
+}
+
+.autograph {
+    font-family: 'Cookie';
+}
+
+.bluebackground {
+    background-color: aliceblue;
+    padding-top: 3vh;
+    padding-bottom: 3vh;
+}
+
+.change-font {
+    font-family: 'Merriweather', serif;
+    font-size: 20px;
+    color: midnightblue;
+}
+
+.lineup {
+    display: inline-block;
+}
+
+.lspace {
+    margin-left: 2vw;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.text-blue {
+    color: blue;
+}
+
+.text-black {
+    color: black;
+}
+
+.text-white {
+    color: white;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.vpad {
+    padding-top: 5vh;
+}
+
+.vpadb {
+    padding-bottom: 3vh;
+}
+
+.vspace {
+    margin-top: 1vh;
+}
+
+.vspaceb {
+    margin-bottom: 5vh;
+}
+
+.wide-font {
+    font-family: 'Archivo Black', sans-serif;
+}
